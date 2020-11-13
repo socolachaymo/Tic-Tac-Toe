@@ -11,4 +11,4 @@ This is how the game looks like:
 </p>
 
 ### Play it!
-You can download the game (Tic.Tac.Toe.zip)from [Release](https://github.com/socolachaymo/Tic-Tac-Toe/releases) and run the app.exe file
+You can download the game (Tic.Tac.Toe.zip)from [Release](https://github.com/socolachaymo/Tic-Tac-Toe/releases) and run the TicTacToe.exe file
